@@ -12,4 +12,6 @@
 <p>Запустить файл: python3 sql_models.py</p>
 <p>sql_models.py печатает данные из всех таблиц.</p>
 </br>
-<p>Работает на flask_sqlalchemy.</p>
+<p>flask_database работает на flask_sqlalchemy.</p>
+</br>
+<p>base_sqlalchemy работает на flask_sqlalchemy.</p>
