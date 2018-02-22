@@ -1,3 +1,5 @@
+<p>git clone https://github.com/Andreyinweb/junk.git</p>
+</br>
 <p>source venv/bin/activate</p>
 </br>
 <p>pip3 install -r requirements.txt</p>
