@@ -10,6 +10,4 @@
 <p>Запустить файл: python3 sql_models.py</p>
 <p>sql_models.py печатает данные из всех таблиц.</p>
 </br>
-<p>Работает на flask_sqlalchemy.</p>
-</br>
 <p>Работает на sqlalchemy.</p>
